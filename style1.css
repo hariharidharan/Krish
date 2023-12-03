@@ -1,0 +1,29 @@
+.catalog2 {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 700px; 
+    overflow: hidden;
+    background-color: #DCDCDC;
+}
+
+.catalog2 img {
+    float: left;
+    max-height: 400px;
+    max-width: 150px; 
+    margin-left: 0px;
+    margin-right: 10px; 
+}
+
+.catalog2 h2{
+    background-color:#1E90FF;
+    margin-left: 300px;
+    margin-right: 250px;
+}
+
+.catalog2 a{
+    color: inherit;
+    text-decoration: none;
+}
+
+
