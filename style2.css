@@ -1,6 +1,7 @@
 img{
+	float: right;
 	height: 400px;
-	width: 600px;
+	width: 700px;
 	margin-top: 10px;
 	margin-right: 400px
 }
