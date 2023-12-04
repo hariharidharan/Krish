@@ -1,8 +1,8 @@
 img{
-	float: left;
-    	max-height: 400px;
-    	max-width: 150px;
+    	max-height: 350px;
+    	max-width: 500px;
     	margin-right: 10px; 
+	margin-left:20px
 }
 
 h2,h3,h4{
