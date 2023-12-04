@@ -1,8 +1,9 @@
 img{
-	height: 250px;
-	width: 250px;
+	float: right;
+	height: 400px;
+	width: 700px;
 	margin-top: 10px;
-	margin-left:20px;
+	margin-right: 400px
 }
 
 h2,h3,h4{
