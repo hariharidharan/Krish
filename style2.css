@@ -8,4 +8,7 @@ img{
 h2,h3,h4{
 	margin-left: 20px;
 }
+body{
+    background-image: url(image07.webp);
+    background-size: cover;
 
