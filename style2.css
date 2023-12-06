@@ -11,6 +11,7 @@ h2,h3,h4{
 body{
 	background-image: url(image07.webp);
 	background-size: cover;
+	background-repeat: no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
