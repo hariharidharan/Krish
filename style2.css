@@ -9,6 +9,10 @@ h2,h3,h4{
 	margin-left: 20px;
 }
 body{
-    background-image: url(image07.webp);
-    background-size: cover;
+	background-image: url(image07.webp);
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+}
 
