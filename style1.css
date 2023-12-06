@@ -28,6 +28,7 @@
 
 body{
     background-image: url(image05.jpg);
-     background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
 
 
