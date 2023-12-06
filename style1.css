@@ -26,4 +26,8 @@
     text-decoration: none;
 }
 
+body{
+    background-image: url(image05.jpg);
+     background-size: cover;
+
 
